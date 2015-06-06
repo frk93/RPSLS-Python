@@ -1,5 +1,6 @@
 # RPSLS
 
+This is the First Project of Introduction to Interactive Programming in Python by Rice university ( Coursera ).
 Rock-paper-scissors is a hand game that is played by two people. The players count to three in unison and simultaneously "throw” one of three hand signals that correspond to rock, paper or scissors. The winner is determined by the rules:
 
 1-> Rock smashes scissors
